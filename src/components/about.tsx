@@ -42,7 +42,7 @@ export function About() {
                     </div>
                     <div>
                         <p className='text-lg text-gray-700 mb-6 leading-relaxed'>
-                            I am a curious developer with a foundation in Mathematics and Computer Science. My interest in software development has enabled me in getting skills in front end web development. Majorly I am confident in tools like React, Typescript, Javascript along with some knowledge in cloud infrastructure and API management.
+                            I am a curious developer with a foundation in Mathematics and Computer Science. My interest in software development has enabled me in getting skills in front end web development and undertaking a course in Prodev web development to certification. Majorly I am confident in tools like React, Typescript, Javascript along with some knowledge in cloud infrastructure and API management.
                         </p>
                         <p className='text-lg text-gray-700 mb-8 leading-relaxed'>
                             I thrive in developing user friendly and enticing web applications that make it easier for their navigation and usage. My experience has been gained over building systems like dynamic poll system, market platform and others. I always prioritize the user's experience in using the system and the functionality.

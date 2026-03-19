@@ -24,11 +24,11 @@ export function Home() {
                     </h1>
 
                     <p className="text-xl md:text-2xl text-gray-600 mb-6">
-                        Frontend Developer | API Integration | Interested in Cloud Computing
+                        Certified Frontend Developer | API Integration | Interested in Cloud Computing
                     </p>
 
                     <p className="text-lg text-gray-600 max-w-2xl mx-auto mb-8">
-                        Mathematics and Computer Science Student at JKUAT and interested in building web applications using javascript and its libraries and frameworks.
+                        Mathematics and Computer Science Student at JKUAT and interested ; certified in building web applications using javascript and its libraries and frameworks.
                     </p>
 
                     <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
