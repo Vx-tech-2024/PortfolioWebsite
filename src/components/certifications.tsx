@@ -44,7 +44,7 @@ export function Certifications() {
             certificateUrl: 'https://drive.google.com/file/d/16LlX9X81IuGoy2myZArHjbUzXEJDPRrc/view?usp=sharing',
         },
         {
-            title: 'Professional Development Skills for Digitial Age',
+            title: 'Professional Development Skills',
             issuer: 'ALX Africa',
             date: 'September 2025',
             credentialId: 'M75rEBLoGc',
