@@ -4,6 +4,7 @@ import { About } from './components/about';
 import { Certifications } from './components/certifications';
 import { Contact } from './components/contact';
 import { Experience } from './components/experience';
+import { Footer } from './components/footer';
 
 export default function App() {
   return (
@@ -16,6 +17,7 @@ export default function App() {
         <Experience />
         <Contact />
       </main>
+      <Footer />
     </div>
   );
 }
