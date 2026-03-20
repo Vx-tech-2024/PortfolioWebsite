@@ -6,6 +6,7 @@ import { Contact } from './components/contact';
 import { Experience } from './components/experience';
 import { Footer } from './components/footer';
 import { Projects } from './components/projects';
+import { Skills } from './components/skills';
 
 export default function App() {
   return (
@@ -14,6 +15,7 @@ export default function App() {
       <main>
         <Home />
         <About />
+        <Skills />
         <Projects />
         <Certifications />
         <Experience />
