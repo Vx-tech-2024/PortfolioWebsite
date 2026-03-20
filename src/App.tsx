@@ -5,6 +5,7 @@ import { Certifications } from './components/certifications';
 import { Contact } from './components/contact';
 import { Experience } from './components/experience';
 import { Footer } from './components/footer';
+import { Projects } from './components/projects';
 
 export default function App() {
   return (
@@ -13,6 +14,7 @@ export default function App() {
       <main>
         <Home />
         <About />
+        <Projects />
         <Certifications />
         <Experience />
         <Contact />
