@@ -43,7 +43,7 @@ export function Projects() {
             technologies: ['React', 'Typescript', 'Tailwind CSS', 'Responsive Design'],
             image: portfolio,
             githubUrl: 'https://github.com/Vx-tech-2024/PortfolioWebsite',
-            liveUrl: 'liveurl',
+            liveUrl: 'https://jportfoliowebsite.netlify.app/',
             features: [
                 'Smooth scrolling Navigation',
                 'Responsive Design',
