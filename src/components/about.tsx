@@ -1,4 +1,5 @@
 import { Code, Rocket, GraduationCap, Target } from 'lucide-react';
+import myimage from "../assets/myimage.png";
 
 export function About() {
     const highlights = [
@@ -35,7 +36,7 @@ export function About() {
                 <div className='grid md:grid-cols-2 gap-12 items-center'>
                     <div>
                         <img 
-                            src="" 
+                            src = {myimage}
                             alt="Developer Workspace"
                             className='rounded-lg shadow-xl w-full object-cover h-96'
                         />

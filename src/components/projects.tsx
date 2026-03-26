@@ -3,6 +3,7 @@ import { Button } from "./subcomponents/button";
 import { Badge } from "./subcomponents/badge";
 import polldynamics from "../assets/polldynamics.png";
 import rehomematt from "../assets/rehomematt.png";
+import portfolio from "../assets/portfolio.png";
 
 export function Projects() {
     const projects = [
@@ -40,7 +41,7 @@ export function Projects() {
             title: 'Personal Portfolio Website',
             description: 'A responsive personal portfolio website showcasing projects, skills and professional experience. Built with React and Tailwind css.',
             technologies: ['React', 'Typescript', 'Tailwind CSS', 'Responsive Design'],
-            image: 'imageurl',
+            image: portfolio,
             githubUrl: 'https://github.com/Vx-tech-2024/PortfolioWebsite',
             liveUrl: 'liveurl',
             features: [
